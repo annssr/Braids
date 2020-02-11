@@ -11,19 +11,19 @@ To see the paths clearly, hide the lattice structure and press 2 to add paths. (
 ## Additional key functions
 |Keyboard Key | Action|
 |-------------|------:|
-| < and >	| Twist Elbow Clockwise and Counter Clockwise, respectively|
-| y |Turn the Radius of the Elbows to 5 instead of 20|
-| [ and ]	| Twist Original Black Path 'P' Clockwise and Counterclockwise respectively|
-| 1	| Add / Remove the rendering buffer for increased performance|
-| / |	Reset Elbow Twists to 0|
-|	-	| TIghten the twists/braids|
-| h	| Switch Tangent Methods|
-| 2	| Increase the number of paths|
-| g	Render Original Black path 'P'|
-| s |	Decrease the number of paths|
-| j |	Render the Biarc (Or anything to do with the Elbows)|
-| ;	| Show colored quads/Lattice Structure|
-| \	| Show Rotating K ( Red Arrows)|
-| o	| Show CenterLine (green points)|
-| v	Switch between path patterns|
+| __<__ and __>__	| Twist Elbow Clockwise and Counter Clockwise, respectively|
+| __y__ |Turn the Radius of the Elbows to 5 instead of 20|
+| __[__ and __]__	| Twist Original Black Path 'P' Clockwise and Counterclockwise respectively|
+| __1__	| Add / Remove the rendering buffer for increased performance|
+| __/__ |	Reset Elbow Twists to 0|
+|	__-__	| TIghten the twists/braids|
+| __h__	| Switch Tangent Methods|
+| __2__	| Increase the number of paths|
+| __g__ |	Render Original Black path 'P'|
+| __s__ |	Decrease the number of paths|
+| __j__ |	Render the Biarc (Or anything to do with the Elbows)|
+| __;__	| Show colored quads/Lattice Structure|
+| __\__	| Show Rotating K ( Red Arrows)|
+| __o__	| Show CenterLine (green points)|
+| __v__ |	Switch between path patterns|
 
