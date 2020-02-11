@@ -10,7 +10,7 @@ To see the paths clearly, hide the lattice structure and press 2 to add paths. (
 
 ## Additional key functions
 |Keyboard Key | Action|
-|-------------|------:|
+|-------------|------|
 | __<__ and __>__	| Twist Elbow Clockwise and Counter Clockwise, respectively|
 | __y__ |Turn the Radius of the Elbows to 5 instead of 20|
 | __[__ and __]__	| Twist Original Black Path 'P' Clockwise and Counterclockwise respectively|
