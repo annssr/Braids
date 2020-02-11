@@ -1,6 +1,9 @@
 # Braids
 Used Processing IDE to create a UI toolkit for drawing a configurable PCC (Piecewise Circular Curve) along a given set of points, rendering several braids revolving around said PCC, then twisting and tightening them in several repeating patterns, including sin, cos, and alternating sin-cos.
 
+## Video Demonstration
+[Video](https://youtu.be/vdMAjpdXem0)
+
 ## Basic tutorial
 When initially running the Ceditor program, there will be a blank triangle. Press j and then press ; to show elbows and then show the lattice structure.
 
